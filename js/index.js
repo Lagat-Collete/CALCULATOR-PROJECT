@@ -23,3 +23,24 @@ var number5 = parseInt(prompt("enter a number"));
 var number6 = parseInt(prompt("another number"));
 var answer = multiply(number5,number6);
 alert(answer);
+
+var divide = function(number7,number8) {
+  return number7 / number8;
+};
+var number7 = parseInt(prompt("enter a number"));
+var number8 = parseInt(prompt("another number"));
+var answer = divide(number7,number8);
+alert(answer);
+
+
+
+
+
+
+
+
+
+
+
+
+
